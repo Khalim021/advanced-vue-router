@@ -28,6 +28,6 @@ export default {
 .slide-enter-from,
 .slide-leave-to {
   opacity: 0;
-  transform: translateX(-30%);
+  transform: translateX(-20%);
 }
 </style>
